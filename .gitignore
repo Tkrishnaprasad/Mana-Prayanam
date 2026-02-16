@@ -1,0 +1,18 @@
+# Frontend
+/node_modules
+/.pnp
+.pnp.js
+/build
+.ds_store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Backend
+ride-share-app/backend/node_modules
+ride-share-app/backend/.env
+
+# Mobile
+ride-share-mobile/node_modules
+ride-share-mobile/.expo
